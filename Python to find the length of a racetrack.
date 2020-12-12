@@ -1,0 +1,25 @@
+# Python3 Program for the  
+
+# above approach  
+
+  
+
+# Function to get the length
+
+# of the racetrack
+
+def findlength(a, b, c):
+
+	# return answer	return c * a/(c+a-b)
+
+	
+
+a=99
+
+b=50
+
+c=65
+
+  
+
+print(findlength(a, b, c)) 
